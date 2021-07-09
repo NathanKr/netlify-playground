@@ -1,0 +1,23 @@
+{
+  "name": "netlify-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanKr/netlify-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathanKr/netlify-playground/issues"
+  },
+  "homepage": "https://github.com/NathanKr/netlify-playground#readme",
+  "dependencies": {
+    "netlify-lambda": "^2.0.11"
+  }
+}
